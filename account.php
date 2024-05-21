@@ -29,7 +29,7 @@ include_once 'dbConnection.php';
 <div class="header">
 <div class="row">
 <div class="col-lg-6">
-<span class="logo">Examen Online ConfiguroWeb</span></div>
+<span class="logo">Examen Online Madam Tusan</span></div>
 <div class="col-md-4 col-md-offset-2">
  <?php
  include_once 'dbConnection.php';
@@ -61,7 +61,7 @@ echo '<span class="pull-right top title1" ><span class="log1"><span class="glyph
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#"><b>ConfiguroWeb</b></a>
+      <a class="navbar-brand" href="#"><b>Sistema de evaluacion Madam Tusan</b></a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
@@ -246,7 +246,7 @@ echo '</table></div></div>';}
 <!--Footer start-->
 <div class="row footer">
 <div class="col-md-3 box">
-<a href="https://www.configuroweb.com/" target="_blank">Quienes Somos</a>
+<a href="https://www.madamtusan.com.pe/" target="_blank">Quienes somos</a>
 </div>
 <div class="col-md-3 box">
 <a href="#" data-toggle="modal" data-target="#login">Acceso Administrador</a></div>
@@ -271,10 +271,10 @@ echo '</table></div></div>';}
 		 <img src="image/avatar.jpg" width=100 height=100 alt="ConfiguroWeb" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-		<a href="https://www.configuroweb.com/acerca-de-mi/" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Mauricio Sevilla Britto</a>
-		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+57 316 243 00 81</h4>
-		<h4 style="font-family:'typo' ">msevilla@gmail.com</h4>
-		<h4 style="font-family:'typo' ">Instituto ConfiguroWeb</h4></div></div>
+		<a href="https://github.com/lanithion/Sistema-de-evaluacion-Madam-Tusan" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Aldalu Jousseffe Loayza Rojas</a>
+		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">979975796</h4>
+		<h4 style="font-family:'typo' ">sunfrosth@gmail.com</h4>
+		<h4 style="font-family:'typo' ">Desarrollador</h4></div></div>
 		</p>
       </div>
     

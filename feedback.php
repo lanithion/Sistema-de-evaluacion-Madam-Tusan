@@ -165,7 +165,7 @@ Puedes enviarnos un email al siguiente correo: sunfrosth@gmail.com <br />
 		 <img src="image/perfil.jpg" width=100 height=100 alt="Sunny Prakash Tiwari" class="img-rounded">
 		 </div>
 		 <div class="col-md-5">
-     <a href="https://www.configuroweb.com/acerca-de-mi/" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Mauricio Sevilla Britto</a>
+     <a href="https://github.com/lanithion/Sistema-de-evaluacion-Madam-Tusan" style="color:#202020; font-family:'typo' ; font-size:18px" title="Find on Facebook">Mauricio Sevilla Britto</a>
 		<h4 style="color:#202020; font-family:'typo' ;font-size:16px" class="title1">+51 979975796</h4>
 		<h4 style="font-family:'typo' ">sunfrosth@gmail.com</h4>
 		<h4 style="font-family:'typo' ">Repositorio Aldalu Loayza Rojas</h4></div></div>
